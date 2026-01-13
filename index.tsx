@@ -640,10 +640,10 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-zinc-100 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-slate-400 font-medium">
-          <p>© 2024 Alturia Agency S.L. Todos los derechos reservados.</p>
+          <p>© 2026 Alturia Agency S.L. Todos los derechos reservados.</p>
           <div className="flex items-center gap-2">
              <span className="w-2 h-2 rounded-full bg-black"></span>
-             <p>Diseñado en Madrid, España</p>
+             <p>Diseñado en A Coruña, España</p>
           </div>
         </div>
       </div>
